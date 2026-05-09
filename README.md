@@ -6,6 +6,26 @@
 - [@Lucas Silva](https://github.com/lukazesz)
 - [@Miguel Ferreira](https://github.com/miguelsfrds)
 
+---
+
+## 🚀 Tecnologias Utilizadas
+
+### Frontend
+- React
+- Vite
+- Axios
+
+### Backend
+- Node.js
+- Express.js
+- Cors
+
+### Banco de Dados
+- MongoDB
+- Prisma ORM
+
+ ---
+
 ## Observações
 
 ### Preparação
@@ -25,6 +45,8 @@ npm run dev
 ```
 
 Apos executar o servidor react precione ```o + ENTER```
+
+---
 
 ## Notas e estrutura
 
