@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "mat3usks",
+    "database": "clinica",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "mat3usks",
+    "database": "clinica",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "mat3usks",
+    "database": "clinica",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
